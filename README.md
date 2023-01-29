@@ -14,11 +14,11 @@ Work carried out by **Group 4** consisting of the following members:
 - The **main.ipynb** Notebook which contains the code related to:
 <br>
 
-&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp; - **data setup**
-&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp; - **Hashing**
-&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp; - **PCA** 
-&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp; - **Clustering**
-&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp; - **Bonus** question.
+&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp; - **data setup**\
+&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp; - **Hashing**\
+&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp; - **PCA**\
+&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp; - **Clustering**\
+&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp; - **Bonus** question.\
 
 - The **module.py** file contains functions needed for hashing tasks..
 - **CommandLine_HW4.sh** is the Command Line Question in .sh format.
