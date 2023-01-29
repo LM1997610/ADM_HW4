@@ -11,7 +11,9 @@ Work carried out by **Group 4** consisting of the following members:
 
 ## Structure :
 
-- The **main.ipynb** Notebook which contains the code related to: 
+- The **main.ipynb** Notebook which contains the code related to:
+<br>
+
 &ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp; - **data setup**
 &ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp; - **Hashing**
 &ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp; - **PCA** 
