@@ -11,13 +11,13 @@ Work carried out by **Group 4** consisting of the following members:
 
 ## Structure :
 
-- The **main.ipynb** Notebook which contains the code related to:\
+- The **main.ipynb** Notebook which contains the code related to:
 
-&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp; - **data setup**\
+&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp; - **Data Setup**\
 &ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp; - **Hashing**\
-&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp; - **LSH**: Local Sensitive Hasing\
+&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp; - [**LSH**](https://www.learndatasci.com/tutorials/building-recommendation-engine-locality-sensitive-hashing-lsh-python/): Local Sensitive Hasing\
 &ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp; - **PCA**: Principal Component Analysis\
-&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp; - **Clustering**\
+&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp; - **Clustering**: K-Means, K-Means++ and Hierarchical Clustering\
 &ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp; - **Bonus Question**.
 
 - The **module.py** file contains functions needed for hashing tasks..
