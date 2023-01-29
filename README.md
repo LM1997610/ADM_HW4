@@ -14,3 +14,4 @@ Work carried out by **Group 4** consisting of the following members:
 - The **main.ipynb** Notebook which contains the code related to data setup, hashing, principal component analysis, clustering, bonus question and algorithmic quesion.
 - The **module.py** file contains functions needed for hashing tasks..
 - **CommandLine_HW4.sh** is the Command Line Question in .sh format.
+- **Algorithmic Question.ipynb** is the answer to the Algorithmic Question.
