@@ -4,8 +4,8 @@ GitHub repository created to submit **[HomeWork 4](https://github.com/lucamaiano
 
 Work carried out by **Group 4** consisting of the following members:
 
-- Erica Capocello, 1862113
-- Luca Mazzucco, 1997610
+- **Erica Capocello** : 1862113
+- **Luca Mazzucco** : 1997610
 
 ------------------------------------------
 
