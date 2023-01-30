@@ -20,6 +20,6 @@ Work carried out by **Group 4** consisting of the following members:
 &ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp; - **Clustering**: K-Means, K-Means++, Hierarchical Clustering\
 &ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp; - **Bonus Question**.
 
-- The **module.py** file contains functions needed for hashing tasks..
+- The **module.py** file contains functions needed for hashing tasks → preprocessing *query_users.csv*
 - **CommandLine_HW4.sh** is the Command Line Question in .sh format.
 - **Algorithmic_Question.ipynb** is the answer to the Algorithmic Question.
