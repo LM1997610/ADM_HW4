@@ -11,7 +11,7 @@ Work carried out by **Group 4** consisting of the following members:
 
 ## Structure :
 
-- The **main.ipynb** Notebook which contains the code related to:
+- Main file is **HW_5.ipynb** Notebook which contains the code related to:
 
 &ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp; - **Data Setup**\
 &ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp; - **Hashing**\
